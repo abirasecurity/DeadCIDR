@@ -1,4 +1,4 @@
-# Large-Scale Network Scanner
+# DeadCIDR
 
 A high-performance, adaptive network scanner designed for scanning large IP ranges with intelligent timeout handling, congestion detection, and rate limiting. The scanner automatically adjusts its behavior based on network conditions and scan scope to optimize performance while maintaining network stability.
 
